@@ -1,0 +1,7 @@
+{
+  "name": "NSE Momentum Screener & Ranking",
+  "description": "Quantitative momentum ranking dashboard for Indian equities (NSE) using multi-timeframe returns, EMA trend filtering, 52-week high proximity, and consistency scoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
